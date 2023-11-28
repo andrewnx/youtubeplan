@@ -81,19 +81,19 @@ Envisioning a sophisticated, engaging, and trusted space where learning is a con
 
 ## Platform-Specific Strategies
 
-1. **Facebook**
+#### Facebook
    - **Type of Content:** Long-form articles, video excerpts, live Q&A sessions, and interactive polls.
    - **Frequency:** 3-4 posts per week.
    - **Visuals:** Use infographics and custom graphics.
    - **Engagement:** Respond to comments and messages within 24 hours.
 
-2. **Twitter**
+#### Twitter
    - **Type of Content:** Quick updates, teasers, GIFs, and thread posts for deeper insights.
    - **Frequency:** Daily posts, multiple times a day.
    - **Visuals:** Short video clips and images.
    - **Engagement:** Use Twitter chats and participate in trending conversations.
 
-3. **Instagram**
+#### Instagram
    - **Type of Content:** High-quality images, Stories, Reels, and IGTV for longer videos.
    - **Frequency:** 1-2 posts per day.
    - **Visuals:** Consistent aesthetic with brand colors and themes.
@@ -140,15 +140,15 @@ Envisioning a sophisticated, engaging, and trusted space where learning is a con
 
 ## Implementation Plan
 
-1. **Initial Phase**
+**Initial Phase**
    - Set up and optimize social media profiles.
    - Start posting regularly and establish a baseline for engagement.
 
-2. **Growth Phase**
+**Growth Phase**
    - Analyze audience data to refine content strategy.
    - Increase engagement through interactive content and community events.
 
-3. **Ongoing Management**
+**Ongoing Management**
    - Continuously adapt to feedback and trends.
    - Focus on long-term audience growth and brand loyalty.
 
