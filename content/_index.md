@@ -26,8 +26,8 @@ Envisioning a sophisticated, engaging, and trusted space where learning is a con
 
 | Source | Usage | Benefits |
 | ------ | ----- | -------- |
-| [Academic Journals](https://www.jstor.org/) | In-depth research and studies | Provides authoritative and peer-reviewed information |
-| [Expert Interviews](https://www.expertinterviews.com/) | Insights from subject matter experts | Adds credibility and depth to content |
+| Academic Journals| In-depth research and studies | Provides authoritative and peer-reviewed information |
+| Expert Interviews | Insights from subject matter experts | Adds credibility and depth to content |
 | [Google Trends](https://trends.google.com/) | Tracks popularity of search queries | Offers real-time and historical data insights |
 | [Answer the Public](https://answerthepublic.com/) | Generates questions around keywords | Visualizes public interest and queries |
 | [Quora](https://www.quora.com/) and [Reddit](https://www.reddit.com/) (specific subreddits) | Browse for in-depth discussions | Gathers insights from knowledgeable communities |
@@ -35,7 +35,7 @@ Envisioning a sophisticated, engaging, and trusted space where learning is a con
 | [YouTube Analytics](https://studio.youtube.com/) | Analyzes viewer behavior and preferences | Helps tailor content to audience interests |
 | [BuzzSumo](https://buzzsumo.com/) | Analyzes content performance | Identifies what resonates with similar audiences |
 | [Google Scholar](https://scholar.google.com/) | Access to scholarly articles | Provides a wealth of academic resources |
-| [Industry Publications](https://www.forbes.com/) | Latest trends and developments | Keeps content current and relevant |
+| Industry Publications | Latest trends and developments | Keeps content current and relevant |
 
 # Project Plan
 
