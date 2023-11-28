@@ -60,9 +60,8 @@ ul, ol {
 }
 
 .site-main {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 15px;
+  margin: 0;
+  padding: 0;
 }
 
 .hanchor {
@@ -393,6 +392,8 @@ hr {
   padding: $spacer-normal;
   max-width: $container-max-width;
   min-height: 100vh;
+  margin: 0 auto;
+  padding: 0 15px;
 
   &.full,
   &.center {
@@ -554,12 +555,4 @@ h1, h2, h3, h4, h5, h6 {
 
 b, strong {
   color: #d9534f; // Example color for bold text
-}
-
-@media (min-width: 768px) {
-  .main-content {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 15px;
-  }
 }
