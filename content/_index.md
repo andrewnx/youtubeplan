@@ -161,5 +161,5 @@ Envisioning a sophisticated, engaging, and trusted space where learning is a con
    - Focus on long-term audience growth and brand loyalty.
 
 # Note
-- Prompt ChatGPT for further elaboration on how to implement the project plan and social media strategy.
-- There are hyperlinks on this page to various technologies/services
+- Prompt ChatGPT, or link it this site, for further elaboration on how to implement the project plan and social media strategy.
+- There are hyperlinks included here to the various technologies/services
