@@ -2,3 +2,139 @@
   [module.hugoVersion]
     extended = true
     min = '0.110.0'
+
+[[menu.main]]
+name = "Project Overview"
+url = "#project-overview"
+weight = 1
+
+[[menu.main]]
+name = "Concept Overview"
+url = "#concept-overview"
+parent = "Project Overview"
+weight = 1
+
+[[menu.main]]
+name = "Content and Presentation"
+url = "#content-and-presentation"
+parent = "Project Overview"
+weight = 1
+
+[[menu.main]]
+name = "Channel Atmosphere"
+url = "#channel-atmosphere"
+parent = "Project Overview"
+weight = 1
+
+[[menu.main]]
+name = "Overall Feel"
+url = "#overall-feel"
+parent = "Project Overview"
+weight = 1
+
+[[menu.main]]
+name = "Research Sources"
+url = "#research-sources"
+weight = 1
+
+[[menu.main]]
+name = "Project Plan"
+url = "#project-plan"
+weight = 1
+
+[[menu.main]]
+name = "Setting Up"
+url = "#step-1-setting-up-the-youtube-channel"
+parent = "Project Plan"
+weight = 1
+
+[[menu.main]]
+name = "Branding and Media"
+url = "#step-2-branding-and-media-assets-creation"
+parent = "Project Plan"
+weight = 1
+
+[[menu.main]]
+name = "SEO and Online Presence"
+url = "#step-3-seo-and-online-presence-setup"
+parent = "Project Plan"
+weight = 1
+
+[[menu.main]]
+name = "Planning and Production"
+url = "#step-4-content-planning-and-production"
+parent = "Project Plan"
+weight = 1
+
+[[menu.main]]
+name = "Monetization and Partnership"
+url = "#step-5-monetization-and-partnership-strategy"
+parent = "Project Plan"
+weight = 1
+
+[[menu.main]]
+name = "Launch and Promotion"
+url = "#step-6-channel-launch-and-promotion"
+parent = "Project Plan"
+weight = 1
+
+[[menu.main]]
+name = "Analytics and Adaptation"
+url = "#step-7-analytics-review-and-content-adaptation"
+parent = "Project Plan"
+weight = 1
+
+[[menu.main]]
+name = "Growth and Expansion"
+url = "#step-8-long-term-growth-and-expansion"
+parent = "Project Plan"
+weight = 1
+
+[[menu.main]]
+name = "Social Media Strategy"
+url = "#social-media-strategy"
+weight = 1
+
+
+[[menu.main]]
+name = "Platform-Specific Strategies"
+url = "#platform-specific-strategies"
+parent = "Social Media Strategy"
+weight = 1
+
+[[menu.main]]
+name = "Content Strategy"
+url = "#content-strategy"
+parent = "Social Media Strategy"
+weight = 1
+
+[[menu.main]]
+name = "Engagement and Community Building"
+url = "#engagement-and-community-building"
+parent = "Social Media Strategy"
+weight = 1
+
+[[menu.main]]
+name = "Analytics and Adaptation"
+url = "#analytics-and-adaptation"
+parent = "Social Media Strategy"
+weight = 1
+
+[[menu.main]]
+name = "Promotion of YouTube Content"
+url = "#promotion-of-youtube-content"
+parent = "Social Media Strategy"
+weight = 1
+
+[[menu.main]]
+name = "Incorporating Trends and Feedback"
+url = "#incorporating-trends-and-feedback"
+parent = "Social Media Strategy"
+weight = 1
+
+[[menu.main]]
+name = "Implementation Plan"
+url = "#implementation-plan"
+parnet = "Social Media Strategy"
+weight = 1
+
