@@ -162,4 +162,4 @@ Envisioning a sophisticated, engaging, and trusted space where learning is a con
 
 # Note
 - Prompt ChatGPT, or link it this site, for further elaboration on how to implement the project plan and social media strategy.
-- There are hyperlinks included here to the various technologies/services
+- There are hyperlinks included here to the various technologies/services.
