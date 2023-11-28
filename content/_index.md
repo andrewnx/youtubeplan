@@ -7,7 +7,7 @@ The core idea of the YouTube channel is to explore the realm of curiosity and kn
 ## Content and Presentation
 
 - **Inquisitive and Engaging:** Transforming complex topics into captivating narratives.
-- **Diverse Topics:** From science and history to culture and everyday mysteries.
+- **Diverse Topics:** From science and history, to religion and occult, to culture and everyday mysteries.
 - **Relatable and Informative:** Balancing informative content with an enjoyable presentation.
 - **Dynamic Presentation:** Charismatic hosts bringing unique perspectives.
 - **Interactive and Community-Driven:** Fostering a community through Q&As, polls, and comments.
