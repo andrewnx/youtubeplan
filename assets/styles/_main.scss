@@ -14,7 +14,8 @@ body {
   font-family: $font-family-normal;
   font-weight: $font-normal;
   font-size: $font-size;
-  line-height: 1.54;
+  line-height: 1.6;
+  color: #333;
   letter-spacing: -0.02em;
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
@@ -22,6 +23,21 @@ body {
   font-variant-ligatures: contextual;
   -webkit-overflow-scrolling: touch;
   text-size-adjust: 100%;
+}
+
+
+// Increase spacing around headings
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+// Increase spacing for list items
+ul, ol {
+  margin-bottom: 1rem;
+  li {
+    margin-bottom: 0.5rem;
+  }
 }
 
 @media print {
@@ -99,6 +115,7 @@ h6 {
   font-weight: $font-bold;
   margin: $spacer-large2 0 $spacer-normal 0;
   width: fit-content;
+  color: #007bff;
 
   @media print {
     break-after: avoid-page;
@@ -528,4 +545,12 @@ hr {
       }
     }
   }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #007bff; // Example color for headings
+}
+
+b, strong {
+  color: #d9534f; // Example color for bold text
 }
