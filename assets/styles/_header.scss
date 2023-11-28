@@ -52,9 +52,6 @@
   flex-flow: row wrap;
   align-items: flex-start;
   justify-content: space-between;
-  position: sticky;
-  top: 0;
-  z-index: 1000;
 
   &__first {
     font-weight: $font-bold;
@@ -102,6 +99,9 @@
 }
 
 .site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
   .navbar {
     margin-bottom: $spacer-large2;
     font-size: $font-size-larger;
